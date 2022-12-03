@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+body{
+    background-color: #fecaca;
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    color: #dc2626;
+}
+p{
+    font-size: 1.5rem;
+
+}
+strong{
+    color: #dc2626;
+}
+hr{
+    color: #f87171;
+    margin: 0 5rem;
+}
+.container-center{
+    text-align: center;
+    margin: 3rem;
+}
+
+#input-el{
+    margin: 1rem auto;
+    display: block;
+    border: 2px solid #dc2626;
+    border-radius: 0.3rem;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+#check-palindrome{
+    border: 1px solid #dc2626;
+    background-color: #dc2626;
+    border-radius: 0.3rem;
+    padding: 0.5rem;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+}
